@@ -10,13 +10,16 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Valentin Fuccenecco
 
 Descripción
 
+Soy estudiante de TPI y no entiendo Git pero ya aprendere. Trabajo y estudio como un esclavo (: 
+
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](https://imgur.com/AQcf50L)
+
 
 Diente de Leon
 
