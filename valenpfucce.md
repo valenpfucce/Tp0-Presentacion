@@ -18,7 +18,7 @@ Soy estudiante de TPI y no entiendo Git pero ya aprendere. Trabajo y estudio com
 
 Foto de mi persona:
 
-![d](https://imgur.com/AQcf50L)
+![d](https://www.google.com.ar/url?sa=i&url=https%3A%2F%2Fcodigoespagueti.com%2Fnoticias%2Fcine-y-tv%2Festos-son-capitulo-donde-salieron-mejores-memes-los-simpson%2F&psig=AOvVaw0GeWbwzhRPIPwor6gDfp7U&ust=1692228206766000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPii-rrn34ADFQAAAAAdAAAAABAJ)
 
 
 Diente de Leon
